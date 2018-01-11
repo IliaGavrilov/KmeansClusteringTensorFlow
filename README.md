@@ -1,5 +1,5 @@
 # KmeansTensorFlow
-- *K*-means clustering;
+- *k*-Means clustering;
 - Unsupervised learning problem;
 - Unlabelled data;
 - Code is run on CPU, but implemented with respect to GPU;
